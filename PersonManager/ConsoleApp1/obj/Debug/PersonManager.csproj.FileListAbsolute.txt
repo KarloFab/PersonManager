@@ -1,0 +1,7 @@
+C:\Users\Karlo\Desktop\FAKS\2.GODINA\1.SEM\OOP\Vjezbe\Priprema MI2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Karlo\Desktop\FAKS\2.GODINA\1.SEM\OOP\Vjezbe\Priprema MI2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Karlo\Desktop\FAKS\2.GODINA\1.SEM\OOP\Vjezbe\Priprema MI2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Karlo\Desktop\FAKS\2.GODINA\1.SEM\OOP\Vjezbe\Priprema MI2\ConsoleApp1\obj\Debug\PersonManager.csprojResolveAssemblyReference.cache
+C:\Users\Karlo\Desktop\FAKS\2.GODINA\1.SEM\OOP\Vjezbe\Priprema MI2\ConsoleApp1\obj\Debug\PersonManager.csproj.CoreCompileInputs.cache
+C:\Users\Karlo\Desktop\FAKS\2.GODINA\1.SEM\OOP\Vjezbe\Priprema MI2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Karlo\Desktop\FAKS\2.GODINA\1.SEM\OOP\Vjezbe\Priprema MI2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
